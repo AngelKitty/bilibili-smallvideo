@@ -37,7 +37,7 @@ http://api.vc.bilibili.com/board/v1/ranking/top?page_size=10&next_offset=&tag=%E
 
 我们查看一下  `Headers` 属性
 
-![](./image/requestsurl.png)
+![requestsurl](./image/requestsurl.png)
 
 我们可以看到Request URL这个属性值，我们向下滑动加载视频的过程中，发现只有这段url是不变的。
 
@@ -47,7 +47,7 @@ http://api.vc.bilibili.com/board/v1/ranking/top?
 
 `next_offset` 会一直变化，我们可以猜测，这个可能就是获取下一个视频序号，我们只需要把这部分参数取出来，把 `next_offset` 写成变量值，用 `JSON` 的格式返回到目标网页即可。
 
-![](./image/next_offset.png)
+![next_offset](./image/next_offset.png)
 
 ### 代码实现
 
@@ -178,12 +178,12 @@ if __name__ == '__main__':
 
 爬取效果图如下：
 
-![](./image/download.png)
+![download](./image/download.png)
 
-![](./image/watch.png)
+![watch](./image/watch.png)
 
 似乎爬取的效果还可以，当然喜欢的朋友不要忘记点赞分享转发哦。
 
 我的公众号是**IT老实人(IThonest)**，一个有故事的公众号，欢迎大家来这里讨论，共同进步，不断学习才能不断进步。扫下面的二维码或者收藏下面的二维码关注吧(长按下面的二维码图片、并选择识别图中的二维码)
 
-<p><img style="margin-left: auto; margin-right: auto; display: block" src="https://img2018.cnblogs.com/blog/1100338/201810/1100338-20181008083045140-1039785080.jpg"></p>
+<p><img style="margin-left: auto; margin-right: auto; display: block" src="./image/qrcode_for_gh_d5c9921b015a_258.jpg"></p>
