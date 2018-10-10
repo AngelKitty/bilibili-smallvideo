@@ -184,6 +184,10 @@ if __name__ == '__main__':
 
 似乎爬取的效果还可以，当然喜欢的朋友不要忘记点赞分享转发哦。
 
+### 项目链接
+
+- [Github](https://github.com/AngelKitty/bilibili-smallvideo)
+
 我的公众号是**IT老实人(IThonest)**，一个有故事的公众号，欢迎大家来这里讨论，共同进步，不断学习才能不断进步。扫下面的二维码或者收藏下面的二维码关注吧(长按下面的二维码图片、并选择识别图中的二维码)
 
 <p><img style="margin-left: auto; margin-right: auto; display: block" src="./image/qrcode_for_gh_d5c9921b015a_258.jpg"></p>
