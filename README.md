@@ -2,7 +2,7 @@
 
 ### 如何手动写一个 `Python` 脚本自动爬取 `Bilibili` 小视频
 
-![bilibili](G:/python/image/bilibili.jpeg)
+![bilibili](./image/bilibili.jpeg)
 
 国庆结束之余，某个不务正业的码农不好好干活，在B站瞎逛着，毕竟国庆嘛，还让不让人休息了诶～～
 
